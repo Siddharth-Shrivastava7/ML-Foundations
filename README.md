@@ -1,3 +1,4 @@
+Updated this in personal site! <This was the first thing I have added, Thanks!! >
 # ML-Foundations
 Machine Learning basics, Maths and Programming
 
